@@ -1,0 +1,14 @@
+{
+  "name": "arthurius-jq",
+  "version": "1.0.0",
+  "description": "Arthurius Jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soldiertt",
+  "license": "ISC",
+  "dependencies": {
+    "mustache": "^2.2.1"
+  }
+}

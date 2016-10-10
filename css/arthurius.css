@@ -1,0 +1,12 @@
+.arth-header-link, .arth-header-link:active, .arth-header-link:focus {
+    color: #fff;
+}
+
+
+/**
+OVERRIDES
+**/
+
+.header-opt-10 .header-content .block-search .categori-search {
+    width: 233px;
+}
